@@ -1,7 +1,42 @@
 p {
-        color: red;
+        color: black;
     }
 
     a {
-        color: blue;
+        color: red;
     }
+body {
+    font-size: 18px;
+    color: blue;
+	background-color: pink;
+}
+
+h1 {
+    color: #f2c;
+    background-color: #000;
+}
+
+body {
+    font-family: arial, arial, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    background-color: #C3447A;
+    margin: 14px;
+    padding: 20px;
+    font-size: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
